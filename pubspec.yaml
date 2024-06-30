@@ -13,7 +13,6 @@ dependencies:
   # common package
   cupertino_icons: ^1.0.6
   intl: ^0.19.0
-  permission_handler: ^11.3.0
   google_fonts: ^6.1.0
   flutter_screenutil: ^5.9.0
   logger: ^2.3.0
@@ -36,7 +35,6 @@ dependencies:
   auto_route: ^7.8.4
 
   # ui & widget
-  carousel_slider: ^4.2.1
   cached_network_image: ^3.3.1
   url_launcher: ^6.2.4
   shimmer: ^3.0.0
